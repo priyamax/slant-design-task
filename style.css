@@ -1,0 +1,324 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=EB+Garamond&family=Open+Sans&family=PT+Serif&family=Roboto:ital,wght@1,300&family=Source+Serif+Pro:wght@200&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.pic1{
+    height: 650px;
+    background-color:#1F1627;
+    border-radius: 80px 80px 0 0;
+    clip-path: polygon(0 0, 100% 0, 100% 90%, 0% 100%);
+}
+
+
+.head1{
+    color: #DFD6D0;
+    font-size: 40px;
+    font-family: 'Crimson Text', serif;
+    letter-spacing: 6px;
+}
+.head2{
+    font-size: 30px;
+    color: white;
+    font-family: 'Crimson Text', serif;
+    letter-spacing: 6px;
+}
+
+.pic2{ 
+    margin-top: -65px;
+    height: 650px;
+    background-image: url('beach.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%); 
+     
+}
+.bg2{
+    height: 650px;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%);  
+    
+}
+
+.third{
+    height: 100%;
+    width: 100%;
+    letter-spacing: 1px;
+    font-family: 'Crimson Text', serif;
+}
+.para1{
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+}
+.span1{
+    font-size: 35px;
+    font-style: normal;
+    color: black;
+}
+.vsc{
+    font-size: 30px;
+    font-weight: 500;
+    color: black;
+}
+.vsc1{
+    font-size:18px;
+    font-weight: 400;
+    color: black;
+}
+.pic3{ 
+    margin-top: -65px;
+    height: 650px;
+    background-image: url('pink.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%); 
+
+}
+.bg2{
+    height: 650px;
+    background-color: #E6DDD4;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%);   
+    opacity:0.2;
+}
+.third1{
+    color: white;
+    font-family: 'Crimson Text', serif;
+    letter-spacing: 1px;
+}
+
+.para2{
+    margin: 0;
+    font-size: 40px;
+}
+.span2{
+    margin: 0;
+    font-size: 40px;
+}
+
+.vsc12{
+    font-size:20px;
+    font-weight: 400;
+}
+.pic4{ 
+    margin-top: -65px;
+    height: 650px;
+    background-image: url('mobileinterface.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%); 
+  
+}
+.bg2{
+    height: 650px;
+    background-color: #E6DDD4;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%);   
+    opacity:0.2;
+}
+.third2{
+    color: black;
+    letter-spacing: 1px;
+    font-family: 'Crimson Text', serif;
+}
+.para2{
+    font-size: 40px;
+}
+.span3{
+    margin: 0;
+    font-size: 40px;
+}
+
+.vsc123{
+    font-size:18px;
+    font-weight: 400;
+}
+.pic5{ 
+    margin-top: -65px;
+    height: 650px;
+    background-image: url('iphone-pink-wallpaper.jpg');
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%); 
+    
+}
+.bg2{
+    height: 650px;
+    background-color: #E6DDD4;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%);   
+    opacity:0.2;
+}
+.third3{
+    color: white;
+    letter-spacing: 1px;
+    font-family: 'Crimson Text', serif;
+}
+.para3{
+    font-size: 40px;
+}
+.span4{
+    margin: 0;
+    font-size: 40px;
+}
+
+.vsc124{
+    font-size:18px;
+    font-weight: 400;
+}
+.pic6{ 
+    margin-top: -65px;
+    height: 650px;
+    background-image: url('goal2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%); 
+ 
+}
+.bg2{
+    height: 650px;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%);   
+    opacity:0.2;
+}
+.third4{
+    color: black;
+    letter-spacing: 1px;
+    font-family: 'Crimson Text', serif;
+}
+.para4{
+    font-size: 40px;
+}
+.span5{
+    margin: 0;
+    font-size: 40px;
+}
+
+.vsc125{
+    font-size:18px;
+    font-weight: 400;
+}
+.pic7{ 
+    margin-top: -65px;
+    height: 650px;
+    background-image: url('seo1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%); 
+    opacity:5; 
+}
+.bg2{
+    height: 650px;
+    background-color: #E6DDD4;
+    opacity: 100%;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%);   
+    opacity:0.6;
+}
+.third5{
+   
+    letter-spacing: 1px;
+    font-family: 'Crimson Text', serif;
+}
+.para5{
+    font-size: 40px;
+    color: black;
+
+}
+.span6{
+    font-size: 30px;
+    font-style: normal;
+    color: white;
+  
+}
+.vsc1234{
+    font-size: 30px;
+    font-weight: 500;
+    color: black;
+   
+}
+.vsc126{
+    font-size:18px;
+    font-weight: 400;
+    color: white;
+}
+.pic8{ 
+    margin-top: -65px;
+    height: 650px;
+    background-image: url('load.jpg');
+    background-position: left;
+    background-size: cover;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%); 
+  
+}
+.bg2{
+    height: 650px;
+    background-color: #E6DDD4;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%);   
+    opacity:0.2;
+}
+.third6{
+    color: black;
+    letter-spacing: 1px;
+    font-family: 'Crimson Text', serif;
+}
+.para6{
+    font-size: 40px;
+}
+.vsc127{
+    font-size:18px;
+    font-weight: 400;
+}
+.pic9{ 
+    margin-top: -65px;
+    height: 650px;
+    background-image: url('gold4.jpg');
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%); 
+    
+}
+.bg2{
+    height: 650px;
+    background-color: #E6DDD4;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%);   
+    opacity:0.2;
+}
+.third7{
+    color: white;
+    letter-spacing: 1px;
+    font-family: 'Crimson Text', serif;
+}
+.para7{
+    font-size: 40px;
+}
+.vsc128{
+    font-size:18px;
+    font-weight: 400;
+}
+.pic10{
+    margin-top: -65px;
+    background-color: #DBDCDE;
+    height: 500px;
+    clip-path: polygon(0 10%, 100% 0, 100% 100%, 0% 100%); 
+}
+.col1{
+    font-family: 'Crimson Text', serif;
+    font-size: 20px;
+    color: #8f9091;
+    font-weight:700;
+}
+.col3{
+    font-size: 18px;
+    color:#8f9091;
+    font-weight: 700;
+}
+.footer{
+    border: 1px solid #919091;
+}
+.foot1,.foot2{
+    font-size: 20px;
+    color:#8f9091;
+    font-weight: 700;
+}
+
+
+
